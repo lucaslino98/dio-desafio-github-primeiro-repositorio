@@ -1,0 +1,22 @@
+##GIT
+
+- Criado em 2005 pelo "Linus Torvals"
+
+##Comandos com diferenças entre os sistemas
+
+* Windos   |    * UNIX/IOS
+  - cd          - cd
+  - dir         - ls
+  - mkdir       - mkdir
+  - del/rmdir   - rm/rf
+
+
+
+-cd.. ; Volta a pasta
+-cls  ; Limpa o terminal
+-Tecla TAB ; É um auto complete 
+- ls-a ; mostra pastas ocultas
+
+- git init ;  Iniciar repositório
+- git add  ; Mover arquivos e dar inicio
+- git commit ; criar um commit

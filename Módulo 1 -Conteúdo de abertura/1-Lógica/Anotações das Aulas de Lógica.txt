@@ -1,0 +1,12 @@
+#Exemplo de Algoritimo
+
+##Início do dia
+
+-Acordei
+-Levantei da Cama
+-Troquei de roupa
+-Escovei os dentes
+-Fui na padaria
+etc....
+
+
